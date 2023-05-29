@@ -3,7 +3,7 @@ title: Changes since April
 slug: 2023-05-release
 pubDate: 2023-05-29
 description: New functionality after the Pentecosts
-image: '~/assets/images/pfila-thumbnail.jpeg'
+image: '~/assets/images/betar2.jpg'
 ---
 
 Since the last deployment we have mainly focused on fixing minor bugs.

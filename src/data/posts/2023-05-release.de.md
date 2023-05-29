@@ -3,7 +3,7 @@ title: Neuerungen seit April
 slug: 2023-05-release
 pubDate: 2023-05-29
 description: Neue Funktionalität nach den Pfingsten
-image: '~/assets/images/pfila-thumbnail.jpeg'
+image: '~/assets/images/betar2.jpg'
 ---
 
 Seit dem letzen deployment haben wir uns vor allem darauf konzentriert, kleinere Unschönheiten zu beheben.
