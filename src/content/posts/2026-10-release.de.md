@@ -6,7 +6,7 @@ description: Kommentare, die neuen J+S-Regeln ab 2027 und vieles mehr
 image: "~/assets/images/2026-10-release.png"
 ---
 
-Das Herbst-Release bringt zwei grosse Neuerungen: Ihr könnt euch in eCamp neu gegenseitig Kommentare hinterlassen, und eCamp unterstützt die neuen J+S-Regeln, die ab 2027 gelten. Dazu kommen einfachere Einladungen, mehr Sicherheit für euer Konto und zahlreiche Verbesserungen und Fehlerbehebungen.
+Das Herbst-Release bringt zwei grosse Neuerungen: Ihr könnt euch in eCamp neu gegenseitig Kommentare hinterlassen und eCamp unterstützt die neuen J+S-Regeln, die ab 2027 gelten. Dazu kommen einfachere Einladungen, mehr Sicherheit für euer Konto und zahlreiche Verbesserungen und Fehlerbehebungen.
 
 ## Kommentare
 Eines der meistgewünschten Features ist endlich da: **Kommentare**. Alle Personen, die in einem Lager mitwirken, auch Gäste, können bei einzelnen Aktivitäten oder beim ganzen Lager Kommentare schreiben. So könnt ihr Rückmeldungen zu einer Aktivität direkt dort festhalten, statt sie in Chats oder E-Mails zu suchen. [#828](https://github.com/ecamp/ecamp3/issues/828){.issuelink} [#7230](https://github.com/ecamp/ecamp3/pull/7230){.issuelink} [#8131](https://github.com/ecamp/ecamp3/pull/8131){.issuelink} [#7226](https://github.com/ecamp/ecamp3/pull/7226){.issuelink} [#10454](https://github.com/ecamp/ecamp3/pull/10454){.issuelink} [#11066](https://github.com/ecamp/ecamp3/pull/11066){.issuelink}
@@ -18,7 +18,7 @@ Eines der meistgewünschten Features ist endlich da: **Kommentare**. Alle Person
 
 ![Kommentare zu einer Aktivität mit Antworten](~/assets/images/comments-de.png)
 
-In Zukunft planen wir noch Erweiterungen für die Kommentare. Vielleicht wird es mal möglich, Blöcke auf dem Grobprogramm oder die ausgewählten Erscheinungsformen von J+S 2027+ zu kommentieren, oder vielleicht entsteht noch eine lagerübergreifende Übersicht über die offenen Kommentare die euch noch betreffen..? Lasst uns wissen was ihr euch wünscht, und wir bleiben dran.
+In Zukunft planen wir noch Erweiterungen für die Kommentare. Vielleicht wird es mal möglich, Blöcke auf dem Grobprogramm oder die ausgewählten Erscheinungsformen von J+S 2027+ zu kommentieren oder vielleicht entsteht noch eine lagerübergreifende Übersicht über die offenen Kommentare, die euch noch betreffen. Lasst uns wissen, was ihr euch wünscht und wir bleiben dran.
 
 ## Die neuen J+S-Regeln ab 2027
 Ab 2027 gelten für J+S-Lager neue Regeln. eCamp unterstützt diese ab sofort, damit ihr die Planung eurer Lager für 2027 schon jetzt beginnen könnt.
@@ -56,7 +56,7 @@ Die neuen Bausteine stehen auch in bestehenden Lagern zur Verfügung. Falls ihr 
 - Gäste sehen die Checklisten eines Lagers nun korrekt nur zum Lesen. [#10722](https://github.com/ecamp/ecamp3/pull/10722){.issuelink}
 - Checklisten-Einträge werden zuverlässig in der richtigen Reihenfolge angezeigt. [#11115](https://github.com/ecamp/ecamp3/pull/11115){.issuelink}
 - Nach dem Sortieren einer Liste, zum Beispiel der Status-Einträge, werden keine Einträge mehr doppelt angezeigt. [#11110](https://github.com/ecamp/ecamp3/pull/11110){.issuelink}
-- Die Anzahl Einträge in Materiallisten wird nach dem Löschen von Material wieder korrekt angezeigt, und Material ohne zugeordnete Liste kann nicht mehr abgehakt werden. [#11107](https://github.com/ecamp/ecamp3/pull/11107){.issuelink} [#10548](https://github.com/ecamp/ecamp3/pull/10548){.issuelink}
+- Die Anzahl Einträge in Materiallisten wird nach dem Löschen von Material wieder korrekt angezeigt und Material ohne zugeordnete Liste kann nicht mehr abgehakt werden. [#11107](https://github.com/ecamp/ecamp3/pull/11107){.issuelink} [#10548](https://github.com/ecamp/ecamp3/pull/10548){.issuelink}
 - Das Einfügen eines Lager-Links beim Erstellen eines Lagers funktioniert in Firefox wieder. [#10519](https://github.com/ecamp/ecamp3/pull/10519){.issuelink}
 - In der Tagesübersicht im PDF stehen Zahlen nun sauber untereinander. [#10816](https://github.com/ecamp/ecamp3/pull/10816){.issuelink}
 - Im Programm wurde ein Fehler behoben, der in Safari auftreten konnte. [#10186](https://github.com/ecamp/ecamp3/pull/10186){.issuelink}
